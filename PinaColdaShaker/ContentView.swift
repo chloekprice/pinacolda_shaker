@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  PinaColdaShaker
+//  PinaColadaShaker
 //
 //  Created by Chloe Price on 5/24/24.
 //
@@ -48,7 +48,7 @@ struct ContentView: View {
                         isPinaColda = true
                         
                         ingredients.removeAll()
-                        ingredients.append("pina_colda")
+                        ingredients.append("pina_colada")
                         
                         drinkAction = "UNSHAKE"
                     }

@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		11D467A42C0104BC00DFB8FD /* PinaColdaShakerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D467A32C0104BC00DFB8FD /* PinaColdaShakerApp.swift */; };
+		11D467A42C0104BC00DFB8FD /* PinaColadaShakerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D467A32C0104BC00DFB8FD /* PinaColadaShakerApp.swift */; };
 		11D467A62C0104BC00DFB8FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D467A52C0104BC00DFB8FD /* ContentView.swift */; };
 		11D467A82C0104BE00DFB8FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11D467A72C0104BE00DFB8FD /* Assets.xcassets */; };
 		11D467AB2C0104BE00DFB8FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11D467AA2C0104BE00DFB8FD /* Preview Assets.xcassets */; };
@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		11D467A02C0104BC00DFB8FD /* PinaColdaShaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PinaColdaShaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11D467A32C0104BC00DFB8FD /* PinaColdaShakerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinaColdaShakerApp.swift; sourceTree = "<group>"; };
+		11D467A32C0104BC00DFB8FD /* PinaColadaShakerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinaColadaShakerApp.swift; sourceTree = "<group>"; };
 		11D467A52C0104BC00DFB8FD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		11D467A72C0104BE00DFB8FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11D467AA2C0104BE00DFB8FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 			children = (
 				11D467B42C0111CD00DFB8FD /* Info.plist */,
 				11D467B12C01119100DFB8FD /* fonts */,
-				11D467A32C0104BC00DFB8FD /* PinaColdaShakerApp.swift */,
+				11D467A32C0104BC00DFB8FD /* PinaColadaShakerApp.swift */,
 				11D467A52C0104BC00DFB8FD /* ContentView.swift */,
 				11D467A72C0104BE00DFB8FD /* Assets.xcassets */,
 				11D467A92C0104BE00DFB8FD /* Preview Content */,
@@ -152,7 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11D467A62C0104BC00DFB8FD /* ContentView.swift in Sources */,
-				11D467A42C0104BC00DFB8FD /* PinaColdaShakerApp.swift in Sources */,
+				11D467A42C0104BC00DFB8FD /* PinaColadaShakerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
